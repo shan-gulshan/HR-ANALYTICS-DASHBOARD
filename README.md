@@ -25,7 +25,7 @@ Interactive HR Dashboard built using Microsoft Excel to analyze employee attriti
 
 ## Dashboard Preview
 
-(Image)
+![Dashboard](HR-ANALYTICS-DASHBOARD.png)
 
 ## Business Insights
 
