@@ -38,6 +38,12 @@ An interactive **HR Analytics Dashboard** developed using **Tableau** to analyze
 
 ## 📷 Dashboard Preview
 
+#TABLEAU
+<p align="center">
+  <img src="HR Analytics Dashboard.png" width="1000">
+</p>
+
+#EXCEL
 <p align="center">
   <img src="HR-ANALYTICS-DASHBOARD.png" width="1000">
 </p>
